@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">flats</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_flat">New flat</string>
+    <string name="add_room">New room</string>
+    <string name="flat_address">Flat address</string>
+    <string name="flat_name">Flat Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="flat_data_empty">Cannot create flat with empty name or address</string>
+    <string name="room_data_empty">Cannot create room with empty name</string>
+    <string name="room_name">Room Name</string>
+    <string name="todo">TODO</string>
+    <string name="id_label">Id:</string>
+    <string name="id">id</string>
+    <string name="failure">Failure</string>
+</resources>
